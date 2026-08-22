@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Taylan</h1>
-<h3 align="center">Trade, finance, and code. I don't start things I can't finish.</h3>
+<h3 align="center">I build ventures at the intersection of trade, finance, and software.</h3>
 
 ---
 
@@ -7,24 +7,24 @@ I study international trade and taught myself to build software. That combinatio
 the whole point: I'm interested in how money and goods move across borders, and in the
 systems that are supposed to be watching them.
 
-I build ventures, not side projects. That means I do the whole thing — finding the
-problem, shipping the product, running it in production, and figuring out the business
-around it. Most projects die at eighty percent. Mine go live and stay live.
+I work end to end — finding the problem, building the product, keeping it running in
+production, and figuring out the business around it. I'd rather own two things
+completely than contribute to ten.
+
+Most side projects die at eighty percent. The ones below are still online, still
+maintained, and still getting used.
 
 ---
 
 ### Shipped
 
-**Postaxy** — Social publishing for people who post across too many platforms. Write
-once, schedule everywhere, stop copy-pasting the same content into five different apps.
-[Live](https://postaxy.com) · [Source](https://github.com/taylanakgn/postaxy)
+**[Postaxy](https://postaxy.com)** — Social publishing for people who post across too
+many platforms. Write once, schedule everywhere, stop copy-pasting the same content into
+five different apps. Live since [ay/yıl].
 
-**Shortsly** — Turns long-form video into short-form content. The editing work that eats
-twenty minutes per clip — cutting, captions, formatting for each platform — happens
-automatically.
-[Live](https://shortsly.com) · [Source](https://github.com/taylanakgn/shortsly)
-
-Both are live with real users.
+**[Shortsly](https://shortsly.com)** — Turns long-form video into short-form content.
+The editing work that eats twenty minutes per clip — cutting, captions, formatting for
+each platform — happens automatically. Live since [ay/yıl].
 
 ---
 
@@ -46,8 +46,7 @@ train a shared detection model without raw customer data ever leaving their peri
 
 - Building **ShadowBridge**
 - Open to collaborating on **fintech, trade tech, and early-stage products**
-- Ask me about **international trade, fraud detection, or building a product end to end**
-- Active in the İzmir startup ecosystem — İZQ, GDG İzmir, Workup
+- Ask me about **international trade, fraud detection, or taking a product from idea to production**
 - Reach me at **taylan2001.is@gmail.com**
 
 ---
