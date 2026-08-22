@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Taylan</h1>
-<h3 align="center">Trade, finance, and code. I ship things and keep them running.</h3>
+<h3 align="center">Trade, finance, and code. I don't start things I can't finish.</h3>
 
 ---
 
@@ -7,19 +7,24 @@ I study international trade and taught myself to build software. That combinatio
 the whole point: I'm interested in how money and goods move across borders, and in the
 systems that are supposed to be watching them.
 
-What I care about most is finishing. A lot of side projects die at eighty percent —
-mine go live and stay live. Everything below is either running in production or has a
-working demo you can open right now.
+I build ventures, not side projects. That means I do the whole thing — finding the
+problem, shipping the product, running it in production, and figuring out the business
+around it. Most projects die at eighty percent. Mine go live and stay live.
 
 ---
 
 ### Shipped
 
-**[Postaxy](https://postaxy.com)** — [tek cümlelik açıklama]
+**Postaxy** — Social publishing for people who post across too many platforms. Write
+once, schedule everywhere, stop copy-pasting the same content into five different apps.
 [Live](https://postaxy.com) · [Source](https://github.com/taylanakgn/postaxy)
 
-**[Shortsly](https://shortsly.com)** — [tek cümlelik açıklama]
+**Shortsly** — Turns long-form video into short-form content. The editing work that eats
+twenty minutes per clip — cutting, captions, formatting for each platform — happens
+automatically.
 [Live](https://shortsly.com) · [Source](https://github.com/taylanakgn/shortsly)
+
+Both are live with real users.
 
 ---
 
@@ -35,16 +40,13 @@ train a shared detection model without raw customer data ever leaving their peri
   around it with a synthetic two-bank federated demo
 - **Status:** architecture done, demo running
 
-→ [Repository](https://github.com/taylanakgn/shadowbridge)
-
 ---
 
 ### Currently
 
 - Building **ShadowBridge**
-- Learning **quantitative finance** and **federated learning**
 - Open to collaborating on **fintech, trade tech, and early-stage products**
-- Ask me about **international trade, fraud detection, or shipping side projects**
+- Ask me about **international trade, fraud detection, or building a product end to end**
 - Active in the İzmir startup ecosystem — İZQ, GDG İzmir, Workup
 - Reach me at **taylan2001.is@gmail.com**
 
@@ -67,3 +69,4 @@ train a shared detection model without raw customer data ever leaving their peri
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/> </a>
+</p>
