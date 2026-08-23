@@ -20,11 +20,11 @@ maintained, and still getting used.
 
 **[Postaxy](https://postaxy.com)** — Social publishing for people who post across too
 many platforms. Write once, schedule everywhere, stop copy-pasting the same content into
-five different apps. Live since [ay/yıl].
+five different apps. 
 
 **[Shortsly](https://shortsly.com)** — Turns long-form video into short-form content.
 The editing work that eats twenty minutes per clip — cutting, captions, formatting for
-each platform — happens automatically. Live since [ay/yıl].
+each platform — happens automatically. 
 
 ---
 
